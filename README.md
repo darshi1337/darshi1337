@@ -14,7 +14,6 @@ class darshi1337():
     self.name = "Priyadarshi Annupam";
     self.username = "darshi1337";
     self.location = "Varanasi, India";
-    self.web = "https://abhigyantrips.dev";
   
   def __str__(self):
     return self.name
